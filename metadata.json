@@ -1,0 +1,6 @@
+{
+  "name": "HKDSE Economics: Price Elasticity Interactive Hub",
+  "description": "Interactive learning platform for HKDSE Economics covering Price Elasticity of Demand (Ed), Price Elasticity of Supply (Es), Total Revenue analysis, interactive curve simulations with movement along curves, real-world HK examples, and past exam practice with smart marking systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
